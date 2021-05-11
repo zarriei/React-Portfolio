@@ -5,17 +5,17 @@ function Home() {
     <div>
       <h1>Home Page</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna
-        varius, blandit rhoncus sem. Morbi lacinia nisi ac dui fermentum, sed luctus urna tincidunt.
-        Etiam ut feugiat ex. Cras non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna
-        imperdiet ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras rutrum
-        ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare
-        elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa non
-        consequat. Vestibulum vitae lorem tortor. In elementum ultricies tempus. Interdum et
-        malesuada fames ac ante ipsum primis in faucibus.
+      I was born in Newark New Jersey on March 10, 1987. Some of my interests include my love for cars (BMW),
+              soccer, traveling internationally, and spending time with family.
+              I am a film fanatic. Some of my favorite films include the Star Wars series, Lord of the Rings, <mark style="color: red;">The
+                Godfather,</mark> Casino, and Devils Advocate. Some of my favorite
+              television series are Peaky Blinders, Game of Thrones, Breaking Bad, Sons of Anarchy, and Hells Kitchen
+              (Guilty-pleasure). Also, I recently became an Uncle and really
+              enjoy spending time with my nephew. After being an Uncle for two years now, I am fascinated by how eager
+              toddlers are to learn. My nephew never ceases to amaze
+              in his willingness to keep on learning (a quick learner)!
       </p>
-      
-      < className="row">
+ 
         <div className="col-md-12 text-info">
           <section className="second section text-white">
             <h2>Inspirational Quotes</h2>

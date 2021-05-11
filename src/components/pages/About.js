@@ -5,15 +5,11 @@ function About() {
     <div>
       <h1>About Me</h1>
       <p>
-      I was born in Newark New Jersey on March 10, 1987. Some of my interests include my love for cars (BMW),
-              soccer, traveling internationally, and spending time with family.
-              I am a film fanatic. Some of my favorite films include the Star Wars series, Lord of the Rings, <mark style="color: red;">The
-                Godfather,</mark> Casino, and Devils Advocate. Some of my favorite
-              television series are Peaky Blinders, Game of Thrones, Breaking Bad, Sons of Anarchy, and Hells Kitchen
-              (Guilty-pleasure). Also, I recently became an Uncle and really
-              enjoy spending time with my nephew. After being an Uncle for two years now, I am fascinated by how eager
-              toddlers are to learn. My nephew never ceases to amaze
-              in his willingness to keep on learning (a quick learner)!
+        Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui
+        mauris, ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus
+        porta. Nam quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam
+        semper imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed
+        rhoncus mollis diam, sit amet facilisis lectus blandit at.
       </p>
     </div>
   );
