@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import classes from "./About.module.css";
+import classes from "./about.css";
 import ScrollAnimation from "react-animate-on-scroll";
 import "animate.css/animate.min.css";
 

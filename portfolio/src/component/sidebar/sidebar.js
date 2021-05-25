@@ -2,16 +2,13 @@ import React, { Component } from "react";
 import "./Sidebar.css";
 import { HashLink as Link } from "react-router-hash-link";
 
-import logo from "../images/My-logo4.ico";
-
 class Sidebar extends Component {
   render() {
     return (
       <div className="sidebar">
-        <img src={logo} />
         <h1>
           <Link smooth to="/#start" className="h1_links">
-            Sachin Mittal
+            Eiman Zarrinhonar
           </Link>
         </h1>
         <p style={{ color: "black", fontWeight: "bold" }} className="gmail">
@@ -41,7 +38,7 @@ class Sidebar extends Component {
           <ul className="sidebar-nav">
             <li className="sidebar-nav-icons">
               <a
-                href="https://www.linkedin.com/in/sachin-mittal-476174158?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoRhF2EUsQJ%2BygJpLEZb%2FFA%3D%3D"
+                href="https://www.linkedin.com/in/eiman-zarrinhonar/</li>"
                 rel="opener noreferrer"
                 target="_blank"
                 class="fa fas fa-linkedin fa-lg"
@@ -50,7 +47,7 @@ class Sidebar extends Component {
             <li className="sidebar-nav-icons">
               {" "}
               <a
-                href="https://github.com/mittalsam98"
+                href="https://github.com/zarriei"
                 rel="opener noreferrer"
                 target="_blank"
                 class="fa fas fa-github fa-lg"
