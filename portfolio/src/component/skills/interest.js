@@ -27,9 +27,10 @@ class Interest extends Component {
               <div className={classes.web}>
                 <h3>APP Develpoment</h3>
                 <p>
-                  I also have knowledge of flutter development and have
-                  experience in building android and IOS applications. I also
-                  have live app published on Google Play Store.{" "}
+                  I have a high interest in Angular and React. Other than coding
+                  one of my biggest interest consists of traveling and seeing
+                  the world. and soaking in the different cultures and ways of
+                  life.{" "}
                 </p>
               </div>
             </ScrollAnimation>
@@ -45,7 +46,6 @@ class Interest extends Component {
                 <p>
                   I am a full stack web developer(MERN) and build websites using
                   HTML, CSS, Javascript, ReactJs.
-                  <br /> I have also good grasp on Node and NoSQL(MongoDb)
                 </p>
               </div>
             </ScrollAnimation>
@@ -55,16 +55,7 @@ class Interest extends Component {
               duration="2.4"
               animateOnce="true"
               initiallyVisible={true}
-            >
-              <div className={classes.other}>
-                <h3>Other's Interest</h3>
-                <p>
-                  I also have decent hand in developing website with WordPress.
-                  <br /> Adobe Photoshop, Adobe Illustrator, MS Office, C++,
-                  Github are my other fields of interest.{" "}
-                </p>
-              </div>
-            </ScrollAnimation>
+            ></ScrollAnimation>
           </div>
         </ScrollAnimation>
       </div>
